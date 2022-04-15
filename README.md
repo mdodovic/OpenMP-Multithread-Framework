@@ -3,7 +3,7 @@
 
 ## [task1](https://github.com/mdodovic/OpenMP-Multithread-Framework/tree/main/task1_simplex)
 
-Sequential code is modified and then both basic and modified code are sped up using manual scheduling of all unit-of-works.
+Sequential code is modified and then both basic and modified code are sped up using **manual scheduling** of all unit-of-works.
 
 task2
 
