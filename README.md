@@ -13,6 +13,8 @@ Sequential code is modified and then both basic and modified codes are sped up u
 
 ## [task3](https://github.com/mdodovic/OpenMP-Multithread-Framework/tree/main/task1_simplex)
 
+Sequential code is sped up using the **working sharing directive _for_** with _static_ technique of dividing the total amount of work into _unit-of-work_ with size 1.
+
 ## [task4](https://github.com/mdodovic/OpenMP-Multithread-Framework/tree/main/task1_simplex)
 
 ## [task5](https://github.com/mdodovic/OpenMP-Multithread-Framework/tree/main/task1_simplex)
