@@ -20,3 +20,5 @@ Sequential code is sped up using the **working sharing directive _for_** with th
 Sequential code is sped up using the **tasks**. Every task gets the exact same number of _unit-of-work_.
 
 ## [task5](https://github.com/mdodovic/OpenMP-Multithread-Framework/tree/main/task5_hotspot)
+
+Sequential code is sped up using both **tasks** and **manual scheduling**.
