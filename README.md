@@ -9,7 +9,7 @@ Sequential code is modified and then both basic and modified codes are sped up u
 
 ## [task2](https://github.com/mdodovic/OpenMP-Multithread-Framework/tree/main/task1_simplex)
 
-Sequential code is modified and then both basic and modified codes are sped up using the **working sharing directive _for_**. This working sharing directive can divide total amount using different techniques (_static_, _dynamic_, _guided_) with variable _unit-of-work_ sizes.
+Sequential code is modified and then both basic and modified codes are sped up using the **working sharing directive _for_**. This working sharing directive can divide the total amount using different techniques (_static_, _dynamic_, _guided_) with variable _unit-of-work_ sizes.
 
 ## [task3](https://github.com/mdodovic/OpenMP-Multithread-Framework/tree/main/task1_simplex)
 
